@@ -1,0 +1,71 @@
+.e-head{
+	margin-top: 50px;
+}
+.exam-header{
+	text-align: center;
+	color: #17a2b8;
+	padding: 50px;
+}
+
+
+.Reg-title{
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+.R-sub{
+	padding-bottom: 50px;
+	color: gray;
+	text-align: center;
+}
+.btn-sub{
+	padding: 10px 40px 10px 40px;
+    background: #17A2B8;
+    color: #fff;
+    margin: 25px 0px 50px 0px;
+}
+.main-header{
+	padding-top: 50px;
+}
+.header{
+	color: #17a2b8;
+	text-align: center;
+	padding-top: 50px;
+    padding-bottom: 50px
+}
+.h-title{
+	color: #17a2b8;
+    margin-top: 70px;
+    padding-left: 63px;
+    text-align: center;
+}
+.h-pera{
+	color: #6c757d;
+    padding-left: 63px;
+     text-align: center;
+}
+.questions{
+	padding-bottom: 50px;
+}
+.all-que{
+	padding-bottom: 50px;
+}
+.que{
+	color: #17a2b8;
+
+	
+}
+.questions-item{
+	padding-left: 63px;
+	padding-bottom: 15px;
+}
+.student-info{
+	color: #17a2b8;;
+	padding-top: 50px;
+}
+.my-btn{
+	padding: 10px 25px 10px 25px;
+    background: #17a2b8;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
